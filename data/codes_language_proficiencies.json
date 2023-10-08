@@ -1,0 +1,34 @@
+{
+    "CodeList": [
+        {
+            "ValidValue": [
+                {
+                    "Code": "00",
+                    "Value": "None",
+                    "LastModified": "2010-07-13T10:13:29.86",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "10",
+                    "Value": "Novice",
+                    "LastModified": "2010-07-13T10:13:29.86",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "30",
+                    "Value": "Intermediate",
+                    "LastModified": "2010-07-13T10:13:29.86",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "40",
+                    "Value": "Advanced",
+                    "LastModified": "2010-07-13T10:13:29.86",
+                    "IsDisabled": "No"
+                }
+            ],
+            "id": "LanguageProficiency"
+        }
+    ],
+    "DateGenerated": "2023-09-30T20:31:19.9135853Z"
+}

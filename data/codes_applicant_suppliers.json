@@ -1,0 +1,157 @@
+{
+    "CodeList": [
+        {
+            "ValidValue": [
+                {
+                    "Code": "01",
+                    "Value": "I searched the USAJOBS website.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.007",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "02",
+                    "Value": "I received a USAJOBS saved search email.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.01",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "03",
+                    "Value": "A Friend",
+                    "Group": "Who posted the job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.01",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "04",
+                    "Value": "USAJOBS",
+                    "Group": "Who posted the job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.01",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "05",
+                    "Value": "Hiring Agency",
+                    "Group": "Who posted the job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.01",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "06",
+                    "Value": "Other",
+                    "Group": "Who posted the job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.01",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "07",
+                    "Value": "Facebook",
+                    "Group": "Where did you find this job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.01",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "08",
+                    "Value": "X (formerly Twitter)",
+                    "Group": "Where did you find this job opportunity on social media",
+                    "LastModified": "2023-09-15T14:39:40.353",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "09",
+                    "Value": "LinkedIn",
+                    "Group": "Where did you find this job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.013",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "10",
+                    "Value": "Other",
+                    "Group": "Where did you find this job opportunity on social media",
+                    "LastModified": "2016-02-20T00:57:08.013",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "11",
+                    "Value": "I saw it on an agency website.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.013",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "12",
+                    "Value": "An agency employee told me about it.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.017",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "13",
+                    "Value": "I went to a recruitment event (Job fair, Meetup, etc.).",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.017",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "14",
+                    "Value": "I found it on a job board or search agent other than USAJOBS.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "15",
+                    "Value": "I heard it on the radio or saw a TV advertisement.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "16",
+                    "Value": "I found it through a professional organization.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "17",
+                    "Value": "I saw it on a school or university announcement.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "18",
+                    "Value": "Other",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.023",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "19",
+                    "Value": "I prefer not to answer",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.023",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "20",
+                    "Value": "I saw it on social media.",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2016-02-20T00:57:08.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "21",
+                    "Value": "Custom Event",
+                    "Group": "How did you hear about this job",
+                    "LastModified": "2018-02-23T06:04:26.42",
+                    "IsDisabled": "No"
+                }
+            ],
+            "id": "ApplicantSuppliers"
+        }
+    ],
+    "DateGenerated": "2023-09-30T20:31:23.2330319Z"
+}

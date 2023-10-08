@@ -1,0 +1,38 @@
+{
+    "5544717608": {
+        "user_id": 5544717608,
+        "chat_id": 5544717608,
+        "username": "William",
+        "email": null,
+        "phone": null,
+        "status_message_id": 523,
+        "active": true
+    },
+    "247946101": {
+        "user_id": 247946101,
+        "chat_id": 247946101,
+        "username": "Brad",
+        "email": null,
+        "phone": null,
+        "status_message_id": 305,
+        "active": true
+    },
+    "33634284": {
+        "user_id": 33634284,
+        "chat_id": 33634284,
+        "username": "Jud",
+        "email": null,
+        "phone": null,
+        "status_message_id": 306,
+        "active": true
+    },
+    "216721204": {
+        "user_id": 216721204,
+        "chat_id": -4096620873,
+        "username": "Black Aesthetics",
+        "email": null,
+        "phone": null,
+        "status_message_id": 528,
+        "active": true
+    }
+}

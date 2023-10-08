@@ -1,0 +1,58 @@
+{
+    "CodeList": [
+        {
+            "ValidValue": [
+                {
+                    "Code": "0",
+                    "Value": "Not Required",
+                    "LastModified": "2019-01-11T12:05:10.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "1",
+                    "Value": "Confidential",
+                    "LastModified": "2013-10-27T00:38:38.987",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "2",
+                    "Value": "Secret",
+                    "LastModified": "2013-10-27T00:38:38.99",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "3",
+                    "Value": "Top Secret",
+                    "LastModified": "2013-10-27T00:38:38.99",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "4",
+                    "Value": "Sensitive Compartmented Information",
+                    "LastModified": "2019-01-11T12:05:10.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "5",
+                    "Value": "Q Access Authorization",
+                    "LastModified": "2019-01-11T12:05:10.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "7",
+                    "Value": "L Access Authorization",
+                    "LastModified": "2019-01-11T12:05:10.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "8",
+                    "Value": "Other",
+                    "LastModified": "2013-10-27T00:38:38.99",
+                    "IsDisabled": "No"
+                }
+            ],
+            "id": "SecurityClearance"
+        }
+    ],
+    "DateGenerated": "2023-09-30T20:31:22.240957Z"
+}

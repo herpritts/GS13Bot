@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/c5bfdc17-11b6-4a5f-ac4c-bb258d7a49f3/resourceGroups/appsvc_linux_centralus_basic/providers/Microsoft.Web/sites/gs13bot",
+    "appService.deploySubpath": "."
+}

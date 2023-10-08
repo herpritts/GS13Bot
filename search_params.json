@@ -1,0 +1,194 @@
+{
+    "Keyword": {
+        "DisplayName": "Keyword",
+        "Description": "Keyword to search for in the job announcement.",
+        "ValueType": "string"
+    },
+    "PositionTitle": {
+        "DisplayName": "Position Title",
+        "Description": "Title of the job to search for.",
+        "ValueType": "string"
+    },
+    "RemunerationMinimumAmount": { 
+        "DisplayName": "Minimum Salary",
+        "Description": "Minimum salary to search for.",
+        "ValueType": "integer",
+        "MinValue": 0,
+        "MaxValue": 200000
+    },
+    "RemunerationMaximumAmount": {
+        "DisplayName": "Maximum Salary",
+        "Description": "Maximum salary to search for.",
+        "ValueType": "integer",
+        "MinValue": 0,
+        "MaxValue": 200000
+    },
+    "PayGradeHigh": {
+        "DisplayName": "Maximum Pay Grade",
+        "Description": "Maximum pay grade to search for.",
+        "ValueType": "string",
+        "PossibleValues": ["01", "02", "03", "04", "05", "06", "07", "08", 
+                           "09", "10", "11", "12", "13", "14", "15"]
+    },
+    "PayGradeLow": {
+        "DisplayName": "Minimum Pay Grade",
+        "Description": "Minimum pay grade to search for.",
+        "ValueType": "string",
+        "PossibleValues": ["01", "02", "03", "04", "05", "06", "07", "08", 
+                           "09", "10", "11", "12", "13", "14", "15"]
+    },
+    "JobCategoryCode": {
+        "DisplayName": "Job Category",
+        "Description": "Job category series to search for.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_occupational_series.json",
+        "PossibleValuesField": "Code"
+    },
+    "LocationName": {
+        "DisplayName": "Zip Code",
+        "Description": "Location to search for jobs.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_postal_codes.json",
+        "PossibleValuesField": "Code"
+    },
+    "PostingChannel": {
+        "DisplayName": "Posting Channel",
+        "Description": "Posting channels to search for.",
+        "ValueType": "string"
+    },
+    "Organization": {
+        "DisplayName": "Organization",
+        "Description": "Organization codes for agency-specific search.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_agency_subelements.json",
+        "PossibleValuesField": "Code"
+    },
+    "PositionOfferingTypeCode": {
+        "DisplayName": "Work Type",
+        "Description": "Known as Work Type.",
+        "ValueType": "string"
+    },
+    "TravelPercentage": {
+        "DisplayName": "Travel Percentage",
+        "Description": "Travel level required for the job.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_travel.json",
+        "PossibleValuesField": "Code"
+    },
+    "PositionScheduleTypeCode": {
+        "DisplayName": "Work Schedule",
+        "Description": "Known as work schedule.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_position_schedule_types.json",
+        "PossibleValuesField": "Code"
+    },
+    "RelocationIndicator": {
+        "DisplayName": "Relocation Required",
+        "Description": "Whether relocation is required or not.",
+        "ValueType": "boolean",
+        "PossibleValues": ["True", "False"]
+    },
+    "SecurityClearanceRequired": {
+        "DisplayName": "Security Clearance Required",
+        "Description": "Security clearance required.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_security_clearances.json",
+        "PossibleValuesField": "Code"
+    },
+    "SupervisoryStatus": {
+        "DisplayName": "Supervisory Status Required",
+        "Description": "Supervisory status required.",
+        "ValueType": "boolean",
+        "PossibleValues": ["True", "False"]
+    },
+    "DatePosted": {
+        "DisplayName": "Date Posted",
+        "Description": "Number of days within which the job was posted.",
+        "ValueType": "integer",
+        "MinValue": 0,
+        "MaxValue": 365
+    },
+    "JobGradeCode": {
+        "DisplayName": "Pay Plan",
+        "Description": "Known as Pay Plan.",
+        "ValueType": "string"
+    },
+    "SortField": {
+        "DisplayName": "Sort Field",
+        "Description": "Field by which to sort the search results.",
+        "ValueType": "string"
+    },
+    "SortDirection": {
+        "DisplayName": "Sort Direction",
+        "Description": "Sort direction for the search results.",
+        "ValueType": "string",
+        "PossibleValues": ["Asc", "Desc"]
+    },
+    "Page": {
+        "DisplayName": "Page Number",
+        "Description": "Page number to return.",
+        "ValueType": "integer"
+    },
+    "ResultsPerPage": {
+        "DisplayName": "Results Per Page",
+        "Description": "Number of results per page.",
+        "ValueType": "integer",
+        "MinValue": 1,
+        "MaxValue": 500
+    },
+    "WhoMayApply": {
+        "DisplayName": "Who May Apply",
+        "Description": "Candidate designation.",
+        "ValueType": "string",
+        "PossibleValues": ["All", "Public", "Status"]
+    },
+    "Radius": {
+        "DisplayName": "Search Radius",
+        "Description": "Search radius when used with LocationName.",
+        "ValueType": "integer",
+        "MinValue": 0,
+        "MaxValue": 1000
+    },
+    "Fields": {
+        "DisplayName": "Fields to Return",
+        "Description": "Minimum or maximum fields to return.",
+        "ValueType": "string",
+        "PossibleValues": ["Min", "Full"]
+    },
+    "SalaryBucket": {
+        "DisplayName": "Salary Bucket",
+        "Description": "Salary grouping based on salary ranges.",
+        "ValueType": "string"
+    },
+    "GradeBucket": {
+        "DisplayName": "Grade Bucket",
+        "Description": "Grade grouping.",
+        "ValueType": "string"
+    },
+    "HiringPath": {
+        "DisplayName": "Hiring Path",
+        "Description": "Hiring paths.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_hiring_paths_types.json",
+        "PossibleValuesField": "Code"
+    },
+    "MissionCriticalTags": {
+        "DisplayName": "Mission Critical Tags",
+        "Description": "Mission critical tags.",
+        "ValueType": "string",
+        "PossibleValuesSource": "codes_mission_critical.json",
+        "PossibleValuesField": "Value"
+    },
+    "PositionSensitivity": {
+        "DisplayName": "Position Sensitivity",
+        "Description": "Position sensitivity and risk.",
+        "ValueType": "string",
+        "PossibleValues": ["1", "2", "3", "4", "5", "6", "7"]
+    },
+    "RemoteIndicator": {
+        "DisplayName": "Remote Jobs",
+        "Description": "Whether to include or exclude remote jobs.",
+        "ValueType": "boolean",
+        "PossibleValues": ["True", "False"]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "CodeList": [
+        {
+            "ValidValue": [
+                {
+                    "Code": "11541",
+                    "Value": "Hired",
+                    "LastModified": "2016-10-21T06:12:50.98",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "11542",
+                    "Value": "Application Status Not Available",
+                    "LastModified": "2016-10-21T06:12:50.937",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "12001",
+                    "Value": "Received",
+                    "LastModified": "2016-10-21T06:12:50.92",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "12002",
+                    "Value": "Reviewed",
+                    "LastModified": "2016-10-21T06:12:50.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "12003",
+                    "Value": "Referred",
+                    "LastModified": "2016-10-21T06:12:50.973",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "12004",
+                    "Value": "Not Referred",
+                    "LastModified": "2016-10-21T06:12:50.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "12005",
+                    "Value": "Not Hired",
+                    "LastModified": "2016-10-21T06:12:50.973",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "3419",
+                    "Value": "Application Incomplete",
+                    "LastModified": "2016-10-21T06:12:50.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "3423",
+                    "Value": "Canceled",
+                    "LastModified": "2016-10-21T06:12:50.937",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "3425",
+                    "Value": "Not Selected",
+                    "LastModified": "2016-10-21T06:12:50.973",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "3426",
+                    "Value": "Selected",
+                    "LastModified": "2016-10-21T06:12:50.973",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "9999",
+                    "Value": "Application In Progress",
+                    "LastModified": "2016-10-21T06:12:50.937",
+                    "IsDisabled": "No"
+                }
+            ],
+            "id": "ApplicationStatus"
+        }
+    ],
+    "DateGenerated": "2023-09-30T20:31:21.7089906Z"
+}

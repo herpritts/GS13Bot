@@ -1,0 +1,2926 @@
+{
+    "CodeList": [
+        {
+            "ValidValue": [
+                {
+                    "Code": "abk",
+                    "Value": "Abkhazian",
+                    "LastModified": "2021-06-11T10:37:24.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ACE",
+                    "Value": "Achinese",
+                    "LastModified": "2021-06-11T10:37:24.127",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ACH",
+                    "Value": "Acoli",
+                    "LastModified": "2021-06-11T10:37:24.22",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ada",
+                    "Value": "Adangme",
+                    "LastModified": "2021-06-11T10:37:24.313",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ADY",
+                    "Value": "Adyghe",
+                    "LastModified": "2021-06-11T10:37:24.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "aar",
+                    "Value": "Afar",
+                    "LastModified": "2021-06-11T10:37:23.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "afh",
+                    "Value": "Afrihili",
+                    "LastModified": "2021-06-11T10:37:24.563",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AFR",
+                    "Value": "Afrikaans",
+                    "LastModified": "2021-06-11T10:37:24.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AFA",
+                    "Value": "Afro-Asiatic languages",
+                    "LastModified": "2021-06-11T10:37:24.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ain",
+                    "Value": "Ainu",
+                    "LastModified": "2021-06-11T10:37:24.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AKA",
+                    "Value": "Akan",
+                    "LastModified": "2021-06-11T10:37:24.813",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "akk",
+                    "Value": "Akkadian",
+                    "LastModified": "2021-06-11T10:37:24.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SQI",
+                    "Value": "Albanian",
+                    "LastModified": "2021-06-11T10:37:24.953",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ALE",
+                    "Value": "Aleut",
+                    "LastModified": "2021-06-11T10:37:25.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "alg",
+                    "Value": "Algonquian languages",
+                    "LastModified": "2021-06-11T10:37:25.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tut",
+                    "Value": "Altaic languages",
+                    "LastModified": "2021-06-11T10:38:05.113",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AMH",
+                    "Value": "Amharic",
+                    "LastModified": "2021-06-11T10:37:25.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "anp",
+                    "Value": "Angika",
+                    "LastModified": "2021-06-11T10:37:25.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "APA",
+                    "Value": "Apache languages",
+                    "LastModified": "2021-06-11T10:37:25.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ARA",
+                    "Value": "Arabic",
+                    "LastModified": "2021-06-11T10:37:25.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "arg",
+                    "Value": "Aragonese",
+                    "LastModified": "2021-06-11T10:37:26.22",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "arp",
+                    "Value": "Arapaho",
+                    "LastModified": "2021-06-11T10:37:26.533",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "arw",
+                    "Value": "Arawak",
+                    "LastModified": "2021-06-11T10:37:26.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HYE",
+                    "Value": "Armenian",
+                    "LastModified": "2021-06-11T10:37:26.313",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "rup",
+                    "Value": "Aromanian",
+                    "LastModified": "2021-06-11T10:37:57.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ART",
+                    "Value": "Artificial languages",
+                    "LastModified": "2021-06-11T10:37:26.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ASM",
+                    "Value": "Assamese",
+                    "LastModified": "2021-06-11T10:37:26.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ast",
+                    "Value": "Asturian",
+                    "LastModified": "2021-06-11T10:37:26.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ath",
+                    "Value": "Athapascan languages",
+                    "LastModified": "2021-06-11T10:37:26.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "aus",
+                    "Value": "Australian languages",
+                    "LastModified": "2021-06-11T10:37:27.11",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "map",
+                    "Value": "Austronesian languages",
+                    "LastModified": "2021-06-11T10:37:50.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AVA",
+                    "Value": "Avaric",
+                    "LastModified": "2021-06-11T10:37:27.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AVE",
+                    "Value": "Avestan",
+                    "LastModified": "2021-06-11T10:37:27.267",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "awa",
+                    "Value": "Awadhi",
+                    "LastModified": "2021-06-11T10:37:27.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AYM",
+                    "Value": "Aymara",
+                    "LastModified": "2021-06-11T10:37:27.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "AZE",
+                    "Value": "Azerbaijani",
+                    "LastModified": "2021-06-11T10:37:27.517",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAN",
+                    "Value": "Balinese",
+                    "LastModified": "2021-06-11T10:37:28.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAT",
+                    "Value": "Baltic languages",
+                    "LastModified": "2021-06-11T10:37:28.457",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAL",
+                    "Value": "Baluchi",
+                    "LastModified": "2021-06-11T10:37:27.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAM",
+                    "Value": "Bambara",
+                    "LastModified": "2021-06-11T10:37:28",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAI",
+                    "Value": "Bamileke languages",
+                    "LastModified": "2021-06-11T10:37:27.767",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bad",
+                    "Value": "Banda languages",
+                    "LastModified": "2021-06-11T10:37:27.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BNT",
+                    "Value": "Bantu languages",
+                    "LastModified": "2021-06-11T10:37:29.503",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAS",
+                    "Value": "Basa",
+                    "LastModified": "2021-06-11T10:37:28.377",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BAK",
+                    "Value": "Bashkir",
+                    "LastModified": "2021-06-11T10:37:27.86",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "EUS",
+                    "Value": "Basque",
+                    "LastModified": "2021-06-11T10:37:28.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BTK",
+                    "Value": "Batak languages",
+                    "LastModified": "2021-06-11T10:37:29.86",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BEJ",
+                    "Value": "Beja",
+                    "LastModified": "2021-06-11T10:37:28.533",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BEL",
+                    "Value": "Belarusian",
+                    "LastModified": "2021-06-11T10:37:28.61",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BEM",
+                    "Value": "Bemba",
+                    "LastModified": "2021-06-11T10:37:28.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BEN",
+                    "Value": "Bengali",
+                    "LastModified": "2021-06-11T10:37:28.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BER",
+                    "Value": "Berber languages",
+                    "LastModified": "2021-06-11T10:37:28.91",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bho",
+                    "Value": "Bhojpuri",
+                    "LastModified": "2021-06-11T10:37:29",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BIH",
+                    "Value": "Bihari languages",
+                    "LastModified": "2021-06-11T10:37:29.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BIK",
+                    "Value": "Bikol",
+                    "LastModified": "2021-06-11T10:37:29.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BIN",
+                    "Value": "Bini",
+                    "LastModified": "2021-06-11T10:37:29.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bis",
+                    "Value": "Bislama",
+                    "LastModified": "2021-06-11T10:37:29.313",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "byn",
+                    "Value": "Blin",
+                    "LastModified": "2021-06-11T10:37:30.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "zbl",
+                    "Value": "Blissymbols",
+                    "LastModified": "2021-06-11T10:38:08.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NOB",
+                    "Value": "Bokm\u00e5l, Norwegian",
+                    "LastModified": "2021-06-11T10:37:53.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bos",
+                    "Value": "Bosnian",
+                    "LastModified": "2021-06-11T10:37:29.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bra",
+                    "Value": "Braj",
+                    "LastModified": "2021-06-11T10:37:29.66",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BRE",
+                    "Value": "Breton",
+                    "LastModified": "2021-06-11T10:37:29.767",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bug",
+                    "Value": "Buginese",
+                    "LastModified": "2021-06-11T10:37:30.11",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BUL",
+                    "Value": "Bulgarian",
+                    "LastModified": "2021-06-11T10:37:30.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "bua",
+                    "Value": "Buriat",
+                    "LastModified": "2021-06-11T10:37:29.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MYA",
+                    "Value": "Burmese",
+                    "LastModified": "2021-06-11T10:37:30.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cad",
+                    "Value": "Caddo",
+                    "LastModified": "2021-06-11T10:37:30.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CAT",
+                    "Value": "Catalan",
+                    "LastModified": "2021-06-11T10:37:30.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cau",
+                    "Value": "Caucasian languages",
+                    "LastModified": "2021-06-11T10:37:30.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CEB",
+                    "Value": "Cebuano",
+                    "LastModified": "2021-06-11T10:37:31.003",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cel",
+                    "Value": "Celtic languages",
+                    "LastModified": "2021-06-11T10:37:31.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cai",
+                    "Value": "Central American Indian languages",
+                    "LastModified": "2021-06-11T10:37:30.563",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KHM",
+                    "Value": "Central Khmer",
+                    "LastModified": "2021-06-11T10:37:45.457",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "chg",
+                    "Value": "Chagatai",
+                    "LastModified": "2021-06-11T10:37:31.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cmc",
+                    "Value": "Chamic languages",
+                    "LastModified": "2021-06-11T10:37:32.457",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHA",
+                    "Value": "Chamorro",
+                    "LastModified": "2021-06-11T10:37:31.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHE",
+                    "Value": "Chechen",
+                    "LastModified": "2021-06-11T10:37:31.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHR",
+                    "Value": "Cherokee",
+                    "LastModified": "2021-06-11T10:37:32.063",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "chy",
+                    "Value": "Cheyenne",
+                    "LastModified": "2021-06-11T10:37:32.377",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "chb",
+                    "Value": "Chibcha",
+                    "LastModified": "2021-06-11T10:37:31.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NYA",
+                    "Value": "Chichewa",
+                    "LastModified": "2021-06-11T10:37:54.567",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ZHO",
+                    "Value": "Chinese",
+                    "LastModified": "2021-06-11T10:37:31.563",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "chn",
+                    "Value": "Chinook jargon",
+                    "LastModified": "2021-06-11T10:37:31.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "chp",
+                    "Value": "Chipewyan",
+                    "LastModified": "2021-06-11T10:37:31.987",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHO",
+                    "Value": "Choctaw",
+                    "LastModified": "2021-06-11T10:37:31.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHU",
+                    "Value": "Church Slavic",
+                    "LastModified": "2021-06-11T10:37:32.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHK",
+                    "Value": "Chuukese",
+                    "LastModified": "2021-06-11T10:37:31.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CHV",
+                    "Value": "Chuvash",
+                    "LastModified": "2021-06-11T10:37:32.22",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nwc",
+                    "Value": "Classical Newari",
+                    "LastModified": "2021-06-11T10:37:54.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SYC",
+                    "Value": "Classical Syriac",
+                    "LastModified": "2021-06-11T10:38:02.567",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "COP",
+                    "Value": "Coptic",
+                    "LastModified": "2021-06-11T10:37:32.61",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "COR",
+                    "Value": "Cornish",
+                    "LastModified": "2021-06-11T10:37:32.673",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cos",
+                    "Value": "Corsican",
+                    "LastModified": "2021-06-11T10:37:32.813",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CRE",
+                    "Value": "Cree",
+                    "LastModified": "2021-06-11T10:37:33.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MUS",
+                    "Value": "Creek",
+                    "LastModified": "2021-06-11T10:37:52.173",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "crp",
+                    "Value": "Creoles and pidgins",
+                    "LastModified": "2021-06-11T10:37:33.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cpe",
+                    "Value": "Creoles and pidgins, English based",
+                    "LastModified": "2021-06-11T10:37:32.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CPF",
+                    "Value": "Creoles and pidgins, French-based",
+                    "LastModified": "2021-06-11T10:37:33.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cpp",
+                    "Value": "Creoles and pidgins, Portuguese-based",
+                    "LastModified": "2021-06-11T10:37:33.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "crh",
+                    "Value": "Crimean Tatar",
+                    "LastModified": "2021-06-11T10:37:33.41",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "hrv",
+                    "Value": "Croatian",
+                    "LastModified": "2021-06-11T10:37:41.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cus",
+                    "Value": "Cushitic languages",
+                    "LastModified": "2021-06-11T10:37:33.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CES",
+                    "Value": "Czech",
+                    "LastModified": "2021-06-11T10:37:33.69",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DAK",
+                    "Value": "Dakota",
+                    "LastModified": "2021-06-11T10:37:33.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DAN",
+                    "Value": "Danish",
+                    "LastModified": "2021-06-11T10:37:33.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "dar",
+                    "Value": "Dargwa",
+                    "LastModified": "2021-06-11T10:37:34.017",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "del",
+                    "Value": "Delaware",
+                    "LastModified": "2021-06-11T10:37:34.173",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DIN",
+                    "Value": "Dinka",
+                    "LastModified": "2021-06-11T10:37:34.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DIV",
+                    "Value": "Divehi",
+                    "LastModified": "2021-06-11T10:37:35.017",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DOI",
+                    "Value": "Dogri",
+                    "LastModified": "2021-06-11T10:37:35.173",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "dgr",
+                    "Value": "Dogrib",
+                    "LastModified": "2021-06-11T10:37:34.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "dra",
+                    "Value": "Dravidian languages",
+                    "LastModified": "2021-06-11T10:37:35.267",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DUA",
+                    "Value": "Duala",
+                    "LastModified": "2021-06-11T10:37:35.423",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NLD",
+                    "Value": "Dutch",
+                    "LastModified": "2021-06-11T10:37:35.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "dum",
+                    "Value": "Dutch, Middle (ca.1050-1350)",
+                    "LastModified": "2021-06-11T10:37:35.517",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DYU",
+                    "Value": "Dyula",
+                    "LastModified": "2021-06-11T10:37:35.66",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DZO",
+                    "Value": "Dzongkha",
+                    "LastModified": "2021-06-11T10:37:35.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "frs",
+                    "Value": "Eastern Frisian",
+                    "LastModified": "2021-06-11T10:37:38.003",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "efi",
+                    "Value": "Efik",
+                    "LastModified": "2021-06-11T10:37:35.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "egy",
+                    "Value": "Egyptian (Ancient)",
+                    "LastModified": "2021-06-11T10:37:35.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "eka",
+                    "Value": "Ekajuk",
+                    "LastModified": "2021-06-11T10:37:36.017",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "elx",
+                    "Value": "Elamite",
+                    "LastModified": "2021-06-11T10:37:36.11",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ENG",
+                    "Value": "English",
+                    "LastModified": "2021-06-11T10:37:36.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "enm",
+                    "Value": "English, Middle (1100-1500)",
+                    "LastModified": "2021-06-11T10:37:36.267",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ANG",
+                    "Value": "English, Old (ca.450-1100)",
+                    "LastModified": "2021-06-11T10:37:25.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "myv",
+                    "Value": "Erzya",
+                    "LastModified": "2021-06-11T10:37:52.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "EPO",
+                    "Value": "Esperanto",
+                    "LastModified": "2021-06-11T10:37:36.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "EST",
+                    "Value": "Estonian",
+                    "LastModified": "2021-06-11T10:37:36.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "EWE",
+                    "Value": "Ewe",
+                    "LastModified": "2021-06-11T10:37:36.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "EWO",
+                    "Value": "Ewondo",
+                    "LastModified": "2021-06-11T10:37:36.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "fan",
+                    "Value": "Fang",
+                    "LastModified": "2021-06-11T10:37:36.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "fat",
+                    "Value": "Fanti",
+                    "LastModified": "2021-06-11T10:37:36.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FAO",
+                    "Value": "Faroese",
+                    "LastModified": "2021-06-11T10:37:36.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FIJ",
+                    "Value": "Fijian",
+                    "LastModified": "2021-06-11T10:37:37.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "fil",
+                    "Value": "Filipino",
+                    "LastModified": "2021-06-11T10:37:37.127",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FIN",
+                    "Value": "Finnish",
+                    "LastModified": "2021-06-11T10:37:37.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "fiu",
+                    "Value": "Finno-Ugrian languages",
+                    "LastModified": "2021-06-11T10:37:37.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FON",
+                    "Value": "Fon",
+                    "LastModified": "2021-06-11T10:37:37.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FRA",
+                    "Value": "French",
+                    "LastModified": "2021-06-11T10:37:37.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "frm",
+                    "Value": "French, Middle (ca.1400-1600)",
+                    "LastModified": "2021-06-11T10:37:37.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FRO",
+                    "Value": "French, Old (842-ca.1400)",
+                    "LastModified": "2021-06-11T10:37:37.813",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "fur",
+                    "Value": "Friulian",
+                    "LastModified": "2021-06-11T10:37:38.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FUL",
+                    "Value": "Fulah",
+                    "LastModified": "2021-06-11T10:37:38.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GAA",
+                    "Value": "Ga",
+                    "LastModified": "2021-06-11T10:37:38.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GLA",
+                    "Value": "Gaelic",
+                    "LastModified": "2021-06-11T10:37:39.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "car",
+                    "Value": "Galibi Carib",
+                    "LastModified": "2021-06-11T10:37:30.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GLG",
+                    "Value": "Galician",
+                    "LastModified": "2021-06-11T10:37:39.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LUG",
+                    "Value": "Ganda",
+                    "LastModified": "2021-06-11T10:37:48.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "gay",
+                    "Value": "Gayo",
+                    "LastModified": "2021-06-11T10:37:38.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "gba",
+                    "Value": "Gbaya",
+                    "LastModified": "2021-06-11T10:37:38.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "gez",
+                    "Value": "Geez",
+                    "LastModified": "2021-06-11T10:37:38.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAT",
+                    "Value": "Georgian",
+                    "LastModified": "2021-06-11T10:37:38.753",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "DEU",
+                    "Value": "German",
+                    "LastModified": "2021-06-11T10:37:38.83",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "gmh",
+                    "Value": "German, Middle High (ca.1050-1500)",
+                    "LastModified": "2021-06-11T10:37:39.377",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GOH",
+                    "Value": "German, Old High (ca.750-1050)",
+                    "LastModified": "2021-06-11T10:37:39.457",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GEM",
+                    "Value": "Germanic languages",
+                    "LastModified": "2021-06-11T10:37:38.673",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GIL",
+                    "Value": "Gilbertese",
+                    "LastModified": "2021-06-11T10:37:38.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GON",
+                    "Value": "Gondi",
+                    "LastModified": "2021-06-11T10:37:39.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "gor",
+                    "Value": "Gorontalo",
+                    "LastModified": "2021-06-11T10:37:39.66",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GOT",
+                    "Value": "Gothic",
+                    "LastModified": "2021-06-11T10:37:39.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "grb",
+                    "Value": "Grebo",
+                    "LastModified": "2021-06-11T10:37:39.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GRC",
+                    "Value": "Greek, Ancient (to 1453)",
+                    "LastModified": "2021-06-11T10:37:39.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ELL",
+                    "Value": "Greek, Modern (1453-)",
+                    "LastModified": "2021-06-11T10:37:39.987",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GRN",
+                    "Value": "Guarani",
+                    "LastModified": "2021-06-11T10:37:40.063",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GUJ",
+                    "Value": "Gujarati",
+                    "LastModified": "2021-06-11T10:37:40.27",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "gwi",
+                    "Value": "Gwich'in",
+                    "LastModified": "2021-06-11T10:37:40.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "hai",
+                    "Value": "Haida",
+                    "LastModified": "2021-06-11T10:37:40.423",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HAT",
+                    "Value": "Haitian",
+                    "LastModified": "2021-06-11T10:37:40.503",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HAU",
+                    "Value": "Hausa",
+                    "LastModified": "2021-06-11T10:37:40.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HAW",
+                    "Value": "Hawaiian",
+                    "LastModified": "2021-06-11T10:37:40.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HEB",
+                    "Value": "Hebrew",
+                    "LastModified": "2021-06-11T10:37:40.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HER",
+                    "Value": "Herero",
+                    "LastModified": "2021-06-11T10:37:40.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HIL",
+                    "Value": "Hiligaynon",
+                    "LastModified": "2021-06-11T10:37:40.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "him",
+                    "Value": "Himachali languages",
+                    "LastModified": "2021-06-11T10:37:41.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HIN",
+                    "Value": "Hindi",
+                    "LastModified": "2021-06-11T10:37:41.11",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HMO",
+                    "Value": "Hiri Motu",
+                    "LastModified": "2021-06-11T10:37:41.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "hit",
+                    "Value": "Hittite",
+                    "LastModified": "2021-06-11T10:37:41.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HMN",
+                    "Value": "Hmong",
+                    "LastModified": "2021-06-11T10:37:41.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "HUN",
+                    "Value": "Hungarian",
+                    "LastModified": "2021-06-11T10:37:41.69",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "hup",
+                    "Value": "Hupa",
+                    "LastModified": "2021-06-11T10:37:41.77",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "IBA",
+                    "Value": "Iban",
+                    "LastModified": "2021-06-11T10:37:41.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ISL",
+                    "Value": "Icelandic",
+                    "LastModified": "2021-06-11T10:37:42.067",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ido",
+                    "Value": "Ido",
+                    "LastModified": "2021-06-11T10:37:42.143",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "IBO",
+                    "Value": "Igbo",
+                    "LastModified": "2021-06-11T10:37:42.003",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "IJO",
+                    "Value": "Ijo languages",
+                    "LastModified": "2021-06-11T10:37:42.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ILO",
+                    "Value": "Iloko",
+                    "LastModified": "2021-06-11T10:37:42.77",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "smn",
+                    "Value": "Inari Sami",
+                    "LastModified": "2021-06-11T10:38:00.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "INC",
+                    "Value": "Indic languages",
+                    "LastModified": "2021-06-11T10:37:42.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "INE",
+                    "Value": "Indo-European languages",
+                    "LastModified": "2021-06-11T10:37:43.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "IND",
+                    "Value": "Indonesian",
+                    "LastModified": "2021-06-11T10:37:43.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "inh",
+                    "Value": "Ingush",
+                    "LastModified": "2021-06-11T10:37:43.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ina",
+                    "Value": "Interlingua (International Auxiliary Language Association)",
+                    "LastModified": "2021-06-11T10:37:42.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ile",
+                    "Value": "Interlingue",
+                    "LastModified": "2021-06-11T10:37:42.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "iku",
+                    "Value": "Inuktitut",
+                    "LastModified": "2021-06-11T10:37:42.52",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ipk",
+                    "Value": "Inupiaq",
+                    "LastModified": "2021-06-11T10:37:43.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ira",
+                    "Value": "Iranian languages",
+                    "LastModified": "2021-06-11T10:37:43.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GLE",
+                    "Value": "Irish",
+                    "LastModified": "2021-06-11T10:37:39.11",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mga",
+                    "Value": "Irish, Middle (900-1200)",
+                    "LastModified": "2021-06-11T10:37:50.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sga",
+                    "Value": "Irish, Old (to 900)",
+                    "LastModified": "2021-06-11T10:37:59.22",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "iro",
+                    "Value": "Iroquoian languages",
+                    "LastModified": "2021-06-11T10:37:43.503",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ITA",
+                    "Value": "Italian",
+                    "LastModified": "2021-06-11T10:37:43.673",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "JPN",
+                    "Value": "Japanese",
+                    "LastModified": "2021-06-11T10:37:43.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "JAV",
+                    "Value": "Javanese",
+                    "LastModified": "2021-06-11T10:37:43.753",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "jrb",
+                    "Value": "Judeo-Arabic",
+                    "LastModified": "2021-06-11T10:37:44.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "jpr",
+                    "Value": "Judeo-Persian",
+                    "LastModified": "2021-06-11T10:37:44.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kbd",
+                    "Value": "Kabardian",
+                    "LastModified": "2021-06-11T10:37:45.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAB",
+                    "Value": "Kabyle",
+                    "LastModified": "2021-06-11T10:37:44.27",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAC",
+                    "Value": "Kachin",
+                    "LastModified": "2021-06-11T10:37:44.36",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kal",
+                    "Value": "Kalaallisut",
+                    "LastModified": "2021-06-11T10:37:44.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "xal",
+                    "Value": "Kalmyk",
+                    "LastModified": "2021-06-11T10:38:07.677",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAM",
+                    "Value": "Kamba",
+                    "LastModified": "2021-06-11T10:37:44.52",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAN",
+                    "Value": "Kannada",
+                    "LastModified": "2021-06-11T10:37:44.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAU",
+                    "Value": "Kanuri",
+                    "LastModified": "2021-06-11T10:37:44.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KRC",
+                    "Value": "Karachay-Balkar",
+                    "LastModified": "2021-06-11T10:37:46.503",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kaa",
+                    "Value": "Kara-Kalpak",
+                    "LastModified": "2021-06-11T10:37:44.173",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "krl",
+                    "Value": "Karelian",
+                    "LastModified": "2021-06-11T10:37:46.58",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAR",
+                    "Value": "Karen languages",
+                    "LastModified": "2021-06-11T10:37:44.817",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAS",
+                    "Value": "Kashmiri",
+                    "LastModified": "2021-06-11T10:37:44.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CSB",
+                    "Value": "Kashubian",
+                    "LastModified": "2021-06-11T10:37:33.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kaw",
+                    "Value": "Kawi",
+                    "LastModified": "2021-06-11T10:37:45.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KAZ",
+                    "Value": "Kazakh",
+                    "LastModified": "2021-06-11T10:37:45.127",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kha",
+                    "Value": "Khasi",
+                    "LastModified": "2021-06-11T10:37:45.283",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "khi",
+                    "Value": "Khoisan languages",
+                    "LastModified": "2021-06-11T10:37:45.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kho",
+                    "Value": "Khotanese",
+                    "LastModified": "2021-06-11T10:37:45.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KIK",
+                    "Value": "Kikuyu",
+                    "LastModified": "2021-06-11T10:37:45.613",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KMB",
+                    "Value": "Kimbundu",
+                    "LastModified": "2021-06-11T10:37:45.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KIN",
+                    "Value": "Kinyarwanda",
+                    "LastModified": "2021-06-11T10:37:45.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KIR",
+                    "Value": "Kirghiz",
+                    "LastModified": "2021-06-11T10:37:45.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tlh",
+                    "Value": "Klingon",
+                    "LastModified": "2021-06-11T10:38:04.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kom",
+                    "Value": "Komi",
+                    "LastModified": "2021-06-11T10:37:45.987",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KON",
+                    "Value": "Kongo",
+                    "LastModified": "2021-06-11T10:37:46.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KOK",
+                    "Value": "Konkani",
+                    "LastModified": "2021-06-11T10:37:45.923",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KOR",
+                    "Value": "Korean",
+                    "LastModified": "2021-06-11T10:37:46.173",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KOS",
+                    "Value": "Kosraean",
+                    "LastModified": "2021-06-11T10:37:46.317",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KPE",
+                    "Value": "Kpelle",
+                    "LastModified": "2021-06-11T10:37:46.423",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kro",
+                    "Value": "Kru languages",
+                    "LastModified": "2021-06-11T10:37:46.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kua",
+                    "Value": "Kuanyama",
+                    "LastModified": "2021-06-11T10:37:46.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kum",
+                    "Value": "Kumyk",
+                    "LastModified": "2021-06-11T10:37:46.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KUR",
+                    "Value": "Kurdish",
+                    "LastModified": "2021-06-11T10:37:46.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "KRU",
+                    "Value": "Kurukh",
+                    "LastModified": "2021-06-11T10:37:46.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "kut",
+                    "Value": "Kutenai",
+                    "LastModified": "2021-06-11T10:37:47.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LAD",
+                    "Value": "Ladino",
+                    "LastModified": "2021-06-11T10:37:47.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LAH",
+                    "Value": "Lahnda",
+                    "LastModified": "2021-06-11T10:37:47.3",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LAM",
+                    "Value": "Lamba",
+                    "LastModified": "2021-06-11T10:37:47.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "day",
+                    "Value": "Land Dayak languages",
+                    "LastModified": "2021-06-11T10:37:34.11",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LAO",
+                    "Value": "Lao",
+                    "LastModified": "2021-06-11T10:37:47.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LAT",
+                    "Value": "Latin",
+                    "LastModified": "2021-06-11T10:37:47.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LAV",
+                    "Value": "Latvian",
+                    "LastModified": "2021-06-11T10:37:47.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "lez",
+                    "Value": "Lezghian",
+                    "LastModified": "2021-06-11T10:37:48.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "lim",
+                    "Value": "Limburgan",
+                    "LastModified": "2021-06-11T10:37:48.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LIN",
+                    "Value": "Lingala",
+                    "LastModified": "2021-06-11T10:37:48.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LIT",
+                    "Value": "Lithuanian",
+                    "LastModified": "2021-06-11T10:37:48.41",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "jbo",
+                    "Value": "Lojban",
+                    "LastModified": "2021-06-11T10:37:43.817",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nds",
+                    "Value": "Low German",
+                    "LastModified": "2021-06-11T10:37:53.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "dsb",
+                    "Value": "Lower Sorbian",
+                    "LastModified": "2021-06-11T10:37:35.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "loz",
+                    "Value": "Lozi",
+                    "LastModified": "2021-06-11T10:37:48.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LUB",
+                    "Value": "Luba-Katanga",
+                    "LastModified": "2021-06-11T10:37:48.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LUA",
+                    "Value": "Luba-Lulua",
+                    "LastModified": "2021-06-11T10:37:48.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "lui",
+                    "Value": "Luiseno",
+                    "LastModified": "2021-06-11T10:37:49.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "smj",
+                    "Value": "Lule Sami",
+                    "LastModified": "2021-06-11T10:38:00.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LUN",
+                    "Value": "Lunda",
+                    "LastModified": "2021-06-11T10:37:49.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LUO",
+                    "Value": "Luo (Kenya and Tanzania)",
+                    "LastModified": "2021-06-11T10:37:49.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "lus",
+                    "Value": "Lushai",
+                    "LastModified": "2021-06-11T10:37:49.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ltz",
+                    "Value": "Luxembourgish",
+                    "LastModified": "2021-06-11T10:37:48.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MKD",
+                    "Value": "Macedonian",
+                    "LastModified": "2021-06-11T10:37:49.41",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MAD",
+                    "Value": "Madurese",
+                    "LastModified": "2021-06-11T10:37:49.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mag",
+                    "Value": "Magahi",
+                    "LastModified": "2021-06-11T10:37:49.66",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mai",
+                    "Value": "Maithili",
+                    "LastModified": "2021-06-11T10:37:49.817",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MAK",
+                    "Value": "Makasar",
+                    "LastModified": "2021-06-11T10:37:49.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MLG",
+                    "Value": "Malagasy",
+                    "LastModified": "2021-06-11T10:37:51.3",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "msa",
+                    "Value": "Malay",
+                    "LastModified": "2021-06-11T10:37:50.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MAL",
+                    "Value": "Malayalam",
+                    "LastModified": "2021-06-11T10:37:49.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MLT",
+                    "Value": "Maltese",
+                    "LastModified": "2021-06-11T10:37:51.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mnc",
+                    "Value": "Manchu",
+                    "LastModified": "2021-06-11T10:37:51.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mdr",
+                    "Value": "Mandar",
+                    "LastModified": "2021-06-11T10:37:50.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "man",
+                    "Value": "Mandingo",
+                    "LastModified": "2021-06-11T10:37:50.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MNI",
+                    "Value": "Manipuri",
+                    "LastModified": "2021-06-11T10:37:51.52",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mno",
+                    "Value": "Manobo languages",
+                    "LastModified": "2021-06-11T10:37:51.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GLV",
+                    "Value": "Manx",
+                    "LastModified": "2021-06-11T10:37:39.3",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MRI",
+                    "Value": "Maori",
+                    "LastModified": "2021-06-11T10:37:50.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "arn",
+                    "Value": "Mapudungun",
+                    "LastModified": "2021-06-11T10:37:26.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MAR",
+                    "Value": "Marathi",
+                    "LastModified": "2021-06-11T10:37:50.317",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "chm",
+                    "Value": "Mari",
+                    "LastModified": "2021-06-11T10:37:31.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MAH",
+                    "Value": "Marshallese",
+                    "LastModified": "2021-06-11T10:37:49.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MWR",
+                    "Value": "Marwari",
+                    "LastModified": "2021-06-11T10:37:52.41",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MAS",
+                    "Value": "Masai",
+                    "LastModified": "2021-06-11T10:37:50.377",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MYN",
+                    "Value": "Mayan languages",
+                    "LastModified": "2021-06-11T10:37:52.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MEN",
+                    "Value": "Mende",
+                    "LastModified": "2021-06-11T10:37:50.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mic",
+                    "Value": "Mi'kmaq",
+                    "LastModified": "2021-06-11T10:37:50.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MIN",
+                    "Value": "Minangkabau",
+                    "LastModified": "2021-06-11T10:37:51.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mwl",
+                    "Value": "Mirandese",
+                    "LastModified": "2021-06-11T10:37:52.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "moh",
+                    "Value": "Mohawk",
+                    "LastModified": "2021-06-11T10:37:51.66",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mdf",
+                    "Value": "Moksha",
+                    "LastModified": "2021-06-11T10:37:50.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "LOL",
+                    "Value": "Mongo",
+                    "LastModified": "2021-06-11T10:37:48.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MON",
+                    "Value": "Mongolian",
+                    "LastModified": "2021-06-11T10:37:51.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mkh",
+                    "Value": "Mon-Khmer languages",
+                    "LastModified": "2021-06-11T10:37:51.173",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "cnr",
+                    "Value": "Montenegrin",
+                    "LastModified": "2021-06-11T10:37:32.533",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "MOS",
+                    "Value": "Mossi",
+                    "LastModified": "2021-06-11T10:37:51.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mul",
+                    "Value": "Multiple languages",
+                    "LastModified": "2021-06-11T10:37:51.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mun",
+                    "Value": "Munda languages",
+                    "LastModified": "2021-06-11T10:37:52.067",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NAH",
+                    "Value": "Nahuatl languages",
+                    "LastModified": "2021-06-11T10:37:52.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NAU",
+                    "Value": "Nauru",
+                    "LastModified": "2021-06-11T10:37:52.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NAV",
+                    "Value": "Navajo",
+                    "LastModified": "2021-06-11T10:37:52.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NDE",
+                    "Value": "Ndebele, North",
+                    "LastModified": "2021-06-11T10:37:53.127",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nbl",
+                    "Value": "Ndebele, South",
+                    "LastModified": "2021-06-11T10:37:53.067",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ndo",
+                    "Value": "Ndonga",
+                    "LastModified": "2021-06-11T10:37:53.283",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NAP",
+                    "Value": "Neapolitan",
+                    "LastModified": "2021-06-11T10:37:52.77",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "new",
+                    "Value": "Nepal Bhasa",
+                    "LastModified": "2021-06-11T10:37:53.567",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NEP",
+                    "Value": "Nepali",
+                    "LastModified": "2021-06-11T10:37:53.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nia",
+                    "Value": "Nias",
+                    "LastModified": "2021-06-11T10:37:53.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nic",
+                    "Value": "Niger-Kordofanian languages",
+                    "LastModified": "2021-06-11T10:37:53.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ssa",
+                    "Value": "Nilo-Saharan languages",
+                    "LastModified": "2021-06-11T10:38:01.91",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NIU",
+                    "Value": "Niuean",
+                    "LastModified": "2021-06-11T10:37:53.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nqo",
+                    "Value": "N'Ko",
+                    "LastModified": "2021-06-11T10:37:54.27",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "zxx",
+                    "Value": "No linguistic content",
+                    "LastModified": "2021-06-11T10:38:09.177",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nog",
+                    "Value": "Nogai",
+                    "LastModified": "2021-06-11T10:37:54.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NON",
+                    "Value": "Norse, Old",
+                    "LastModified": "2021-06-11T10:37:54.113",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NAI",
+                    "Value": "North American Indian languages",
+                    "LastModified": "2021-06-11T10:37:52.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "frr",
+                    "Value": "Northern Frisian",
+                    "LastModified": "2021-06-11T10:37:37.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sme",
+                    "Value": "Northern Sami",
+                    "LastModified": "2021-06-11T10:38:00.27",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nor",
+                    "Value": "Norwegian",
+                    "LastModified": "2021-06-11T10:37:54.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NNO",
+                    "Value": "Norwegian Nynorsk",
+                    "LastModified": "2021-06-11T10:37:53.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NUB",
+                    "Value": "Nubian languages",
+                    "LastModified": "2021-06-11T10:37:54.423",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nym",
+                    "Value": "Nyamwezi",
+                    "LastModified": "2021-06-11T10:37:54.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NYN",
+                    "Value": "Nyankole",
+                    "LastModified": "2021-06-11T10:37:54.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "NYO",
+                    "Value": "Nyoro",
+                    "LastModified": "2021-06-11T10:37:54.863",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nzi",
+                    "Value": "Nzima",
+                    "LastModified": "2021-06-11T10:37:54.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "oci",
+                    "Value": "Occitan (post 1500)",
+                    "LastModified": "2021-06-11T10:37:55.003",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "arc",
+                    "Value": "Official Aramaic (700-300 BCE)",
+                    "LastModified": "2021-06-11T10:37:25.877",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "OJI",
+                    "Value": "Ojibwa",
+                    "LastModified": "2021-06-11T10:37:55.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ORI",
+                    "Value": "Oriya",
+                    "LastModified": "2021-06-11T10:37:55.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ORM",
+                    "Value": "Oromo",
+                    "LastModified": "2021-06-11T10:37:55.283",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "osa",
+                    "Value": "Osage",
+                    "LastModified": "2021-06-11T10:37:55.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "OSS",
+                    "Value": "Ossetian",
+                    "LastModified": "2021-06-11T10:37:55.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "oto",
+                    "Value": "Otomian languages",
+                    "LastModified": "2021-06-11T10:37:55.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "pal",
+                    "Value": "Pahlavi",
+                    "LastModified": "2021-06-11T10:37:55.863",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PAU",
+                    "Value": "Palauan",
+                    "LastModified": "2021-06-11T10:37:56.22",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PLI",
+                    "Value": "Pali",
+                    "LastModified": "2021-06-11T10:37:56.613",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PAM",
+                    "Value": "Pampanga",
+                    "LastModified": "2021-06-11T10:37:55.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PAG",
+                    "Value": "Pangasinan",
+                    "LastModified": "2021-06-11T10:37:55.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PAN",
+                    "Value": "Panjabi",
+                    "LastModified": "2021-06-11T10:37:56.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PAP",
+                    "Value": "Papiamento",
+                    "LastModified": "2021-06-11T10:37:56.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "paa",
+                    "Value": "Papuan languages",
+                    "LastModified": "2021-06-11T10:37:55.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "nso",
+                    "Value": "Pedi",
+                    "LastModified": "2021-06-11T10:37:54.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "fas",
+                    "Value": "Persian",
+                    "LastModified": "2021-06-11T10:37:56.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "peo",
+                    "Value": "Persian, Old (ca.600-400 B.C.)",
+                    "LastModified": "2021-06-11T10:37:56.317",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "phi",
+                    "Value": "Philippine languages",
+                    "LastModified": "2021-06-11T10:37:56.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "phn",
+                    "Value": "Phoenician",
+                    "LastModified": "2021-06-11T10:37:56.533",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PON",
+                    "Value": "Pohnpeian",
+                    "LastModified": "2021-06-11T10:37:56.83",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "POL",
+                    "Value": "Polish",
+                    "LastModified": "2021-06-11T10:37:56.753",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "POR",
+                    "Value": "Portuguese",
+                    "LastModified": "2021-06-11T10:37:56.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "pra",
+                    "Value": "Prakrit languages",
+                    "LastModified": "2021-06-11T10:37:56.97",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "pro",
+                    "Value": "Proven\u00e7al, Old (to 1500)",
+                    "LastModified": "2021-06-11T10:37:57.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "PUS",
+                    "Value": "Pushto",
+                    "LastModified": "2021-06-11T10:37:57.13",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "QUE",
+                    "Value": "Quechua",
+                    "LastModified": "2021-06-11T10:37:57.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "raj",
+                    "Value": "Rajasthani",
+                    "LastModified": "2021-06-11T10:37:57.317",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "rap",
+                    "Value": "Rapanui",
+                    "LastModified": "2021-06-11T10:37:57.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "RAR",
+                    "Value": "Rarotongan",
+                    "LastModified": "2021-06-11T10:37:57.47",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ROA",
+                    "Value": "Romance languages",
+                    "LastModified": "2021-06-11T10:37:57.567",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "RON",
+                    "Value": "Romanian",
+                    "LastModified": "2021-06-11T10:37:57.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ROH",
+                    "Value": "Romansh",
+                    "LastModified": "2021-06-11T10:37:57.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ROM",
+                    "Value": "Romany",
+                    "LastModified": "2021-06-11T10:37:57.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "RUN",
+                    "Value": "Rundi",
+                    "LastModified": "2021-06-11T10:37:57.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "RUS",
+                    "Value": "Russian",
+                    "LastModified": "2021-06-11T10:37:58.003",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sal",
+                    "Value": "Salishan languages",
+                    "LastModified": "2021-06-11T10:37:58.41",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sam",
+                    "Value": "Samaritan Aramaic",
+                    "LastModified": "2021-06-11T10:37:58.52",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SMI",
+                    "Value": "Sami languages",
+                    "LastModified": "2021-06-11T10:38:00.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SMO",
+                    "Value": "Samoan",
+                    "LastModified": "2021-06-11T10:38:00.66",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sad",
+                    "Value": "Sandawe",
+                    "LastModified": "2021-06-11T10:37:58.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SAG",
+                    "Value": "Sango",
+                    "LastModified": "2021-06-11T10:37:58.143",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SAN",
+                    "Value": "Sanskrit",
+                    "LastModified": "2021-06-11T10:37:58.613",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SAT",
+                    "Value": "Santali",
+                    "LastModified": "2021-06-11T10:37:58.817",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SRD",
+                    "Value": "Sardinian",
+                    "LastModified": "2021-06-11T10:38:01.52",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SAS",
+                    "Value": "Sasak",
+                    "LastModified": "2021-06-11T10:37:58.72",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sco",
+                    "Value": "Scots",
+                    "LastModified": "2021-06-11T10:37:58.987",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sel",
+                    "Value": "Selkup",
+                    "LastModified": "2021-06-11T10:37:59.067",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SEM",
+                    "Value": "Semitic languages",
+                    "LastModified": "2021-06-11T10:37:59.143",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "srp",
+                    "Value": "Serbian",
+                    "LastModified": "2021-06-11T10:38:01.677",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SRR",
+                    "Value": "Serer",
+                    "LastModified": "2021-06-11T10:38:01.753",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SHN",
+                    "Value": "Shan",
+                    "LastModified": "2021-06-11T10:37:59.44",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SNA",
+                    "Value": "Shona",
+                    "LastModified": "2021-06-11T10:38:00.817",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "iii",
+                    "Value": "Sichuan Yi",
+                    "LastModified": "2021-06-11T10:37:42.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SCN",
+                    "Value": "Sicilian",
+                    "LastModified": "2021-06-11T10:37:58.927",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SID",
+                    "Value": "Sidamo",
+                    "LastModified": "2021-06-11T10:37:59.533",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sgn",
+                    "Value": "Sign Languages",
+                    "LastModified": "2021-06-11T10:37:59.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BLA",
+                    "Value": "Siksika",
+                    "LastModified": "2021-06-11T10:37:29.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SND",
+                    "Value": "Sindhi",
+                    "LastModified": "2021-06-11T10:38:00.893",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SIN",
+                    "Value": "Sinhala",
+                    "LastModified": "2021-06-11T10:37:59.613",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SIT",
+                    "Value": "Sino-Tibetan languages",
+                    "LastModified": "2021-06-11T10:37:59.77",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sio",
+                    "Value": "Siouan languages",
+                    "LastModified": "2021-06-11T10:37:59.69",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sms",
+                    "Value": "Skolt Sami",
+                    "LastModified": "2021-06-11T10:38:00.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "den",
+                    "Value": "Slave (Athapascan)",
+                    "LastModified": "2021-06-11T10:37:34.313",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SLA",
+                    "Value": "Slavic languages",
+                    "LastModified": "2021-06-11T10:37:59.863",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SLK",
+                    "Value": "Slovak",
+                    "LastModified": "2021-06-11T10:38:00.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SLV",
+                    "Value": "Slovenian",
+                    "LastModified": "2021-06-11T10:38:00.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sog",
+                    "Value": "Sogdian",
+                    "LastModified": "2021-06-11T10:38:01.13",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SOM",
+                    "Value": "Somali",
+                    "LastModified": "2021-06-11T10:38:01.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "son",
+                    "Value": "Songhai languages",
+                    "LastModified": "2021-06-11T10:38:01.283",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SNK",
+                    "Value": "Soninke",
+                    "LastModified": "2021-06-11T10:38:00.973",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "WEN",
+                    "Value": "Sorbian languages",
+                    "LastModified": "2021-06-11T10:38:07.347",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sot",
+                    "Value": "Sotho, Southern",
+                    "LastModified": "2021-06-11T10:38:01.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SAI",
+                    "Value": "South American Indian languages",
+                    "LastModified": "2021-06-11T10:37:58.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "alt",
+                    "Value": "Southern Altai",
+                    "LastModified": "2021-06-11T10:37:25.25",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "sma",
+                    "Value": "Southern Sami",
+                    "LastModified": "2021-06-11T10:38:00.177",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SPA",
+                    "Value": "Spanish",
+                    "LastModified": "2021-06-11T10:38:01.457",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SRN",
+                    "Value": "Sranan Tongo",
+                    "LastModified": "2021-06-11T10:38:01.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "zgh",
+                    "Value": "Standard Moroccan Tamazight",
+                    "LastModified": "2021-06-11T10:38:08.737",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "suk",
+                    "Value": "Sukuma",
+                    "LastModified": "2021-06-11T10:38:02.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SUX",
+                    "Value": "Sumerian",
+                    "LastModified": "2021-06-11T10:38:02.283",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SUN",
+                    "Value": "Sundanese",
+                    "LastModified": "2021-06-11T10:38:02.13",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SUS",
+                    "Value": "Susu",
+                    "LastModified": "2021-06-11T10:38:02.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SWA",
+                    "Value": "Swahili",
+                    "LastModified": "2021-06-11T10:38:02.41",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SSW",
+                    "Value": "Swati",
+                    "LastModified": "2021-06-11T10:38:01.987",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SWE",
+                    "Value": "Swedish",
+                    "LastModified": "2021-06-11T10:38:02.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "GSW",
+                    "Value": "Swiss German",
+                    "LastModified": "2021-06-11T10:37:40.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SYR",
+                    "Value": "Syriac",
+                    "LastModified": "2021-06-11T10:38:02.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TGL",
+                    "Value": "Tagalog",
+                    "LastModified": "2021-06-11T10:38:03.473",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TAH",
+                    "Value": "Tahitian",
+                    "LastModified": "2021-06-11T10:38:02.723",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tai",
+                    "Value": "Tai languages",
+                    "LastModified": "2021-06-11T10:38:02.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TGK",
+                    "Value": "Tajik",
+                    "LastModified": "2021-06-11T10:38:03.38",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TMH",
+                    "Value": "Tamashek",
+                    "LastModified": "2021-06-11T10:38:04.177",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TAM",
+                    "Value": "Tamil",
+                    "LastModified": "2021-06-11T10:38:02.863",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TAT",
+                    "Value": "Tatar",
+                    "LastModified": "2021-06-11T10:38:03.003",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TEL",
+                    "Value": "Telugu",
+                    "LastModified": "2021-06-11T10:38:03.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ter",
+                    "Value": "Tereno",
+                    "LastModified": "2021-06-11T10:38:03.237",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TET",
+                    "Value": "Tetum",
+                    "LastModified": "2021-06-11T10:38:03.3",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "THA",
+                    "Value": "Thai",
+                    "LastModified": "2021-06-11T10:38:03.567",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "BOD",
+                    "Value": "Tibetan",
+                    "LastModified": "2021-06-11T10:38:03.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TIG",
+                    "Value": "Tigre",
+                    "LastModified": "2021-06-11T10:38:03.707",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TIR",
+                    "Value": "Tigrinya",
+                    "LastModified": "2021-06-11T10:38:03.783",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TEM",
+                    "Value": "Timne",
+                    "LastModified": "2021-06-11T10:38:03.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TIV",
+                    "Value": "Tiv",
+                    "LastModified": "2021-06-11T10:38:03.88",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tli",
+                    "Value": "Tlingit",
+                    "LastModified": "2021-06-11T10:38:04.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TPI",
+                    "Value": "Tok Pisin",
+                    "LastModified": "2021-06-11T10:38:04.427",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TKL",
+                    "Value": "Tokelau",
+                    "LastModified": "2021-06-11T10:38:03.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tog",
+                    "Value": "Tonga (Nyasa)",
+                    "LastModified": "2021-06-11T10:38:04.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ton",
+                    "Value": "Tonga (Tonga Islands)",
+                    "LastModified": "2021-06-11T10:38:04.33",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tsi",
+                    "Value": "Tsimshian",
+                    "LastModified": "2021-06-11T10:38:04.503",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TSO",
+                    "Value": "Tsonga",
+                    "LastModified": "2021-06-11T10:38:04.723",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TSN",
+                    "Value": "Tswana",
+                    "LastModified": "2021-06-11T10:38:04.613",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TUM",
+                    "Value": "Tumbuka",
+                    "LastModified": "2021-06-11T10:38:04.88",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TUP",
+                    "Value": "Tupi languages",
+                    "LastModified": "2021-06-11T10:38:04.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TUR",
+                    "Value": "Turkish",
+                    "LastModified": "2021-06-11T10:38:05.033",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ota",
+                    "Value": "Turkish, Ottoman (1500-1928)",
+                    "LastModified": "2021-06-11T10:37:55.567",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TUK",
+                    "Value": "Turkmen",
+                    "LastModified": "2021-06-11T10:38:04.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "TVL",
+                    "Value": "Tuvalu",
+                    "LastModified": "2021-06-11T10:38:05.207",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "tyv",
+                    "Value": "Tuvinian",
+                    "LastModified": "2021-06-11T10:38:05.393",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "twi",
+                    "Value": "Twi",
+                    "LastModified": "2021-06-11T10:38:05.317",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "udm",
+                    "Value": "Udmurt",
+                    "LastModified": "2021-06-11T10:38:05.473",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "uga",
+                    "Value": "Ugaritic",
+                    "LastModified": "2021-06-11T10:38:05.55",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "UIG",
+                    "Value": "Uighur",
+                    "LastModified": "2021-06-11T10:38:05.63",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "UKR",
+                    "Value": "Ukrainian",
+                    "LastModified": "2021-06-11T10:38:05.847",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "UMB",
+                    "Value": "Umbundu",
+                    "LastModified": "2021-06-11T10:38:05.94",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "mis",
+                    "Value": "Uncoded languages",
+                    "LastModified": "2021-06-11T10:37:51.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "und",
+                    "Value": "Undetermined",
+                    "LastModified": "2021-06-11T10:38:06.08",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "hsb",
+                    "Value": "Upper Sorbian",
+                    "LastModified": "2021-06-11T10:37:41.627",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "URD",
+                    "Value": "Urdu",
+                    "LastModified": "2021-06-11T10:38:06.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "UZB",
+                    "Value": "Uzbek",
+                    "LastModified": "2021-06-11T10:38:06.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "VAI",
+                    "Value": "Vai",
+                    "LastModified": "2021-06-11T10:38:06.363",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ven",
+                    "Value": "Venda",
+                    "LastModified": "2021-06-11T10:38:06.427",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "VIE",
+                    "Value": "Vietnamese",
+                    "LastModified": "2021-06-11T10:38:06.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "VOL",
+                    "Value": "Volap\u00fck",
+                    "LastModified": "2021-06-11T10:38:06.677",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "vot",
+                    "Value": "Votic",
+                    "LastModified": "2021-06-11T10:38:06.753",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "wak",
+                    "Value": "Wakashan languages",
+                    "LastModified": "2021-06-11T10:38:06.91",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "wln",
+                    "Value": "Walloon",
+                    "LastModified": "2021-06-11T10:38:07.52",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "WAR",
+                    "Value": "Waray",
+                    "LastModified": "2021-06-11T10:38:07.097",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "was",
+                    "Value": "Washo",
+                    "LastModified": "2021-06-11T10:38:07.19",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "CYM",
+                    "Value": "Welsh",
+                    "LastModified": "2021-06-11T10:38:07.27",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "FRY",
+                    "Value": "Western Frisian",
+                    "LastModified": "2021-06-11T10:37:38.16",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "WAL",
+                    "Value": "Wolaitta",
+                    "LastModified": "2021-06-11T10:38:07.02",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "WOL",
+                    "Value": "Wolof",
+                    "LastModified": "2021-06-11T10:38:07.597",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "XHO",
+                    "Value": "Xhosa",
+                    "LastModified": "2021-06-11T10:38:07.753",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "SAH",
+                    "Value": "Yakut",
+                    "LastModified": "2021-06-11T10:37:58.22",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "YAO",
+                    "Value": "Yao",
+                    "LastModified": "2021-06-11T10:38:07.83",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "YAP",
+                    "Value": "Yapese",
+                    "LastModified": "2021-06-11T10:38:07.91",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "YID",
+                    "Value": "Yiddish",
+                    "LastModified": "2021-06-11T10:38:07.973",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "YOR",
+                    "Value": "Yoruba",
+                    "LastModified": "2021-06-11T10:38:08.05",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ypk",
+                    "Value": "Yupik languages",
+                    "LastModified": "2021-06-11T10:38:08.113",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "znd",
+                    "Value": "Zande languages",
+                    "LastModified": "2021-06-11T10:38:08.88",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ZAP",
+                    "Value": "Zapotec",
+                    "LastModified": "2021-06-11T10:38:08.487",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "zza",
+                    "Value": "Zaza",
+                    "LastModified": "2021-06-11T10:38:09.253",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ZEN",
+                    "Value": "Zenaga",
+                    "LastModified": "2021-06-11T10:38:08.643",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ZHA",
+                    "Value": "Zhuang",
+                    "LastModified": "2021-06-11T10:38:08.8",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ZUL",
+                    "Value": "Zulu",
+                    "LastModified": "2021-06-11T10:38:08.957",
+                    "IsDisabled": "No"
+                },
+                {
+                    "Code": "ZUN",
+                    "Value": "Zuni",
+                    "LastModified": "2021-06-11T10:38:09.097",
+                    "IsDisabled": "No"
+                }
+            ],
+            "id": "LanguageCode"
+        }
+    ],
+    "DateGenerated": "2023-09-30T20:31:20.2206355Z"
+}
