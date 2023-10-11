@@ -83,6 +83,8 @@ def make_api_call(BASE_URL, HEADERS, params):
 
 # Define constants for the API endpoint and other fixed values
 BASE_URL = 'https://data.usajobs.gov/api/Search'
+KEYWORD = 'Health Physicist'
+LOCATIONNAME = 'Portsmouth, Virginia'
 RESULTS_PER_PAGE = 50
 PAY_GRADE_LOW = 13
 RADIUS = 25
