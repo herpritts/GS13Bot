@@ -33,8 +33,8 @@ def fetch_headers():
     """
     load_dotenv()
     headers = {
-        'Authorization-Key': os.environ.get('USAJOBS_AUTHORIZATION_KEY'),
-        'User-Agent': os.environ.get('USAJOBS_USER_AGENT')
+        'Authorization-Key': os.getenv('USAJOBS_AUTHORIZATION_KEY'),
+        'User-Agent': os.getenv('USAJOBS_USER_AGENT')
     }
     if None in headers.values():
         raise Exception("Missing required environment variables")
@@ -50,11 +50,7 @@ def prepare_params(**kwargs):
     Returns:
         dict: Dictionary containing query parameters
     """
-    ...
-    params = {}
-    for key, value in kwargs.items():
-        if value is not None:
-            params[key] = value
+    params = {key: value for key, value in kwargs.items() if value is not None}
     return params
 
 def make_api_call(BASE_URL, HEADERS, params):
@@ -69,15 +65,12 @@ def make_api_call(BASE_URL, HEADERS, params):
     Returns:
         dict: Dictionary containing the API response or an error message
     """
-    ...
     try:
         response = requests.get(BASE_URL, headers=HEADERS, params=params, timeout=10)
-        if response.status_code == 200:
-            return json.loads(response.text)
-        else:
-            return {'error': f'API call failed with status code {response.status_code}'}
-    except requests.exceptions.Timeout:
-        return {'error': 'API call timed out'}
+        response.raise_for_status()
+        return response.json()
+    except requests.exceptions.HTTPError as http_err:
+        return {'error': f'HTTP error occurred: {http_err}'}
     except requests.exceptions.RequestException as err:
         return {'error': f'API call failed with exception: {err}'}
 
@@ -100,13 +93,9 @@ def job_search(**kwargs):
     Returns:
         dict: Dictionary containing the API response
     """
-    ...
     HEADERS = fetch_headers()
     params = prepare_params(**kwargs)
-    try:
-        response = make_api_call(BASE_URL, HEADERS, params)
-    except requests.exceptions.RequestException as err:
-        raise Exception(f"Error making API call: {err}")
+    response = make_api_call(BASE_URL, HEADERS, params)
     if 'error' in response:
         raise Exception(response['error'])
     return response
@@ -126,7 +115,6 @@ def count_position_locations(search_results):
     Returns:
         None
     """
-    ...
     # Create a logger object
     logger = logging.getLogger(__name__)
 
@@ -152,7 +140,6 @@ def filter_search_results(search_results):
     Returns:
         dict: The filtered search result dictionary.
     """
-    ...
     if 'SearchResult' in search_results and 'SearchResultItems' in search_results['SearchResult']:
         # Create a new list with items that don't match the condition
         filtered_items = [item for item in search_results['SearchResult']['SearchResultItems'] if item.get("MatchedObjectDescriptor", {}).get("UserArea", {}).get("Details", {}).get("AnnouncementClosingType") == ANNOUNCEMENT_CLOSING_TYPE_FILTER]
@@ -179,7 +166,6 @@ def check_for_job_posting():
     Returns:
         bool: True if there are job postings, False if there are no job postings, None if there was an error
     """
-    ...
     try:
         # Perform a job search for Health Physicist positions in Portsmouth, VA
         results = job_search(Keyword='Health Physicist', LocationName='Portsmouth, Virginia', Radius=RADIUS, PayGradeLow=PAY_GRADE_LOW, ResultsPerPage=RESULTS_PER_PAGE)

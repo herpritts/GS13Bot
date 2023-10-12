@@ -33,7 +33,7 @@ initial_job_found_time = None
 # Load user data from JSON file
 try:
     user_data_dict = load_from_json('user_data.json')
-except Exception as e:
+except (FileNotFoundError, json.JSONDecodeError) as e:
     logging.error("Failed to load user data: %s", e)
 
 def start_send_updates_thread(dispatcher: Dispatcher, interval: int = REFRESH_INTERVAL) -> None:
@@ -49,7 +49,7 @@ def start_send_updates_thread(dispatcher: Dispatcher, interval: int = REFRESH_IN
     """
     try:
         get_updates(dispatcher)
-    except Exception as error:
+    except (ConnectionError, ValueError) as error:
         logging.error("An error occurred while sending updates: %s", error)
 
     # Start a new thread to send updates after the specified interval
@@ -88,22 +88,15 @@ def generate_update_message_text(context: CallbackContext, is_job_posted: bool) 
     """
     global initial_job_found_time
 
-    try:
-        timestamp = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
-    except Exception as error:
-        logging.error(
-            "An error occurred while formatting time: %s", 
-            error
-        )
-        timestamp = "Unknown time"
+    timestamp = time.strftime('%Y-%m-%d %H:%M:%S', time.localtime())
 
     if is_job_posted:
-        logging.info("Condition met!!!")
+        logging.info("Job found!")
         if initial_job_found_time is None:
             initial_job_found_time = timestamp
         return f"Job found! Initially found at {initial_job_found_time}. Last verified at {timestamp}.\n/deactivate"
     else:
-        logging.info("Condition not met.")
+        logging.info("Job not found.")
         return f"Not yet... Last checked at {timestamp}"
 
 def send_update(context: CallbackContext, message_text: str) -> None:

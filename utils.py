@@ -26,12 +26,9 @@ def fetch_environment_variables() -> Dict[str, str]:
         Dict[str, str]: A dictionary of environment variable names and their values.
     """
     load_dotenv()
-    env_vars = {}
-    env_vars['USAJOBS_AUTHORIZATION_KEY'] = os.environ.get('USAJOBS_AUTHORIZATION_KEY')
-    env_vars['USAJOBS_USER_AGENT'] = os.environ.get('USAJOBS_USER_AGENT')
-    env_vars['TELEGRAM_BOT_TOKEN'] = os.environ.get('TELEGRAM_BOT_TOKEN')
+    env_vars = {key: os.getenv(key) for key in ['USAJOBS_AUTHORIZATION_KEY', 'USAJOBS_USER_AGENT', 'TELEGRAM_BOT_TOKEN']}
 
-    if not env_vars['USAJOBS_AUTHORIZATION_KEY'] or not env_vars['USAJOBS_USER_AGENT'] or not env_vars['TELEGRAM_BOT_TOKEN']:
+    if not all(env_vars.values()):
         logging.error("Authorization key, User-Agent, and/or Bot token not set. Exiting.")
         sys.exit(1)
 
@@ -44,9 +41,6 @@ def save_to_json(data_dict: dict, filename: str) -> None:
     Parameters:
         data_dict (dict): The dictionary to save.
         filename (str): The name of the file to save the dictionary in.
-
-    Returns:
-        bool: True if the save operation was successful, False otherwise.
     """
     path = Path("data") / filename
     try:
@@ -73,8 +67,7 @@ def load_from_json(filename: str) -> dict:
     path = Path("data") / filename
     try:
         with path.open('r', encoding='utf-8') as f:
-            data = json.load(f)
-        return data
+            return json.load(f)
     except FileNotFoundError:
         logging.warning("%s not found. Starting with an empty dictionary.", filename)
         return {}
