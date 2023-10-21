@@ -72,12 +72,12 @@ celerybeat-schedule
 
 # Environments
 .env
-.venv
+.venv_name
 env/
-venv/
+venv_name/
 ENV/
 env.bak/
-venv.bak/
+venv_name.bak/
 
 # Logs
 *.log

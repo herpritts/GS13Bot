@@ -77,11 +77,13 @@ def make_api_call(BASE_URL, HEADERS, params):
 # Define constants for the API endpoint and other fixed values
 BASE_URL = 'https://data.usajobs.gov/api/Search'
 KEYWORD = 'Health Physicist'
-LOCATIONNAME = 'Portsmouth, Virginia'
+LOCATION_NAME = 'Portsmouth, Virginia'
 RESULTS_PER_PAGE = 50
 PAY_GRADE_LOW = 13
+PAY_GRADE_HIGH = 13
 RADIUS = 25
 ANNOUNCEMENT_CLOSING_TYPE_FILTER = '03'
+JOB_CATEGORY_CODE = '1306'
 
 def job_search(**kwargs):
     """
@@ -168,7 +170,7 @@ def check_for_job_posting():
     """
     try:
         # Perform a job search for Health Physicist positions in Portsmouth, VA
-        results = job_search(Keyword='Health Physicist', LocationName='Portsmouth, Virginia', Radius=RADIUS, PayGradeLow=PAY_GRADE_LOW, ResultsPerPage=RESULTS_PER_PAGE)
+        results = job_search(JobCategoryCode= JOB_CATEGORY_CODE, PayGradeLow=PAY_GRADE_LOW, PayGradeHigh=PAY_GRADE_HIGH, ResultsPerPage=RESULTS_PER_PAGE)
         filtered_results, num_filtered_results = filter_search_results(results)
 
         # Call the function to display the results

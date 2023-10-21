@@ -2,10 +2,10 @@
     "5544717608": {
         "user_id": 5544717608,
         "chat_id": 5544717608,
-        "username": "William",
+        "username": "Black Rapture",
         "email": null,
         "phone": null,
-        "status_message_id": 535,
+        "status_message_id": 693,
         "active": true
     },
     "247946101": {
@@ -15,7 +15,7 @@
         "email": null,
         "phone": null,
         "status_message_id": 305,
-        "active": true
+        "active": false
     },
     "33634284": {
         "user_id": 33634284,
@@ -24,7 +24,7 @@
         "email": null,
         "phone": null,
         "status_message_id": 306,
-        "active": true
+        "active": false
     },
     "216721204": {
         "user_id": 216721204,
@@ -33,6 +33,15 @@
         "email": null,
         "phone": null,
         "status_message_id": 528,
-        "active": true
+        "active": false
+    },
+    "1290234734": {
+        "user_id": 1290234734,
+        "chat_id": 1290234734,
+        "username": "Black Vulture",
+        "email": null,
+        "phone": null,
+        "status_message_id": null,
+        "active": false
     }
 }
